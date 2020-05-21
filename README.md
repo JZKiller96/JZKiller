@@ -54,6 +54,5 @@ void loop() {
       digitalWrite(10,LOW);
       }
     }
-  // put your main code here, to run repeatedly:
 
 }
